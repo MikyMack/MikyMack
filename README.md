@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 My previous projects [Stayrare](https://stayrare.in/)
+- 
+- 👯 My previous projects [Hofmaan]([https://hofmaan.com/])
 
 - 🤝 Previous project [Alamara](https://alamarabynilay.com/)
 
